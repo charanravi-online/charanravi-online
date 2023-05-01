@@ -10,6 +10,7 @@ I am a Software Developer and Test Engineer
 - I am currently working as a Software Test Engineer (on [webOS OSE](https://github.com/webosose)) at [LG Soft India](https://www.lgsoftindia.com/).
 - I'm an OpenSource Software Enthusiast.
 - I am actively looking for Software Developer/Test Engineer roles to broaden my knowledge.
+- Connect with me: [Port Folio](https://charanravi-online.github.io)
 
 ---
 ### Languages and Tools
@@ -32,7 +33,3 @@ I am a Software Developer and Test Engineer
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> &nbsp;&nbsp;
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> &nbsp;&nbsp;  
   <a href="https://en.wikipedia.org/wiki/JavaScript" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="javascript" width="40" height="40"/> </a> &nbsp;&nbsp;
-  
-<br />
-
-[website]: https://charanavi-online.github.io
