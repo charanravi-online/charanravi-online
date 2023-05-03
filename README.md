@@ -1,4 +1,4 @@
-# Charan R
+# R Charan
 
 **`Your friendly neighborhood, tech enthusiast!`**
 
