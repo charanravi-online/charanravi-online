@@ -10,8 +10,8 @@ Hi there! My name is Charan, and I'm a software developer with expertise in vari
 - I'm an OpenSource Software Enthusiast.
 - I am actively looking for Software Developer/Test Engineer roles to broaden my knowledge.
 - Connect with me: 
--**MAIL**: charanravi.online@gmail.com
--[Port Folio](https://charanravi-online.github.io)
+ - **MAIL**: charanravi.online@gmail.com
+ - [Port Folio](https://charanravi-online.github.io)
 
 ---
 ### Languages and Tools
