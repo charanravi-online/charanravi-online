@@ -14,4 +14,4 @@ Hi there! My name is Charan, and I'm a software developer with expertise in vari
 ---
 ### Languages and Tools
 
-[![My Skills](https://skillicons.dev/icons?i=ableton,azure,bash,blender,c,cpp,css,dart,discord,django,eclipse,firebase,flask,flutter,github,html,js,jenkins,linux,mysql,py,selenium,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ableton,azure,bash,blender,c,cpp,css,dart,discord,django,eclipse,firebase,flask,flutter,git,github,html,js,jenkins,linux,mysql,py,selenium,)](https://skillicons.dev)
