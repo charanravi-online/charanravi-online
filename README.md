@@ -9,7 +9,10 @@ Hi there! My name is Charan, and I'm a software developer with expertise in vari
 - I am currently working as an Embedded Software Test Engineer (on [webOS OSE](https://github.com/webosose)) at [LG Soft India](https://www.lgsoftindia.com/).
 - I'm an OpenSource Software Enthusiast.
 - I am actively looking for Software Developer/Test Engineer roles to broaden my knowledge.
-- Connect with me: 
+
+---
+
+**Connect with me**
  - **MAIL**: charanravi.online@gmail.com
  - [Port Folio](https://charanravi-online.github.io)
 
