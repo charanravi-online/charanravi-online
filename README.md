@@ -44,4 +44,5 @@ Hi there! My name is Charan, and I'm a software developer with expertise in vari
 [![My Skills](https://skillicons.dev/icons?i=py)](https://www.python.org/)
 [![My Skills](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/)
 [![My Skills](https://skillicons.dev/icons?i=selenium)](https://www.selenium.dev/)
----
+
+
