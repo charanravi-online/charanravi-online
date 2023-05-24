@@ -14,7 +14,7 @@ Hi there! My name is Charan, and I'm a software developer with expertise in vari
 
 **Connect with me**
  - **MAIL**: charanravi.online@gmail.com
- - [Port Folio](https://charanravi-online.github.io)
+ - [PORTFOLIO](https://charanravi-online.github.io)
 
 ---
 ### Languages and Tools
