@@ -12,7 +12,7 @@ Hi there! I'm Charan, a software developer with expertise in various programming
 ---
 
 **Connect with me**
- - **MAIL**: charan.dev@skiff.com
+ - **MAIL**: charan.sh@proton.me
  - [PORTFOLIO](https://charanravi-online.github.io)
 
 ---
