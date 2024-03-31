@@ -2,7 +2,7 @@
 
 **`A Tech enthusiast, technically.`**
 
-Hi there! I'm Charan, a software developer with expertise in various programming languages and technologies such as Dart, Flutter, HTML and more. I have several years of experience developing software solutions for various clients, and I'm passionate about staying up-to-date with the latest industry trends and technologies. I'm excited to connect with like-minded individuals and collaborate on innovative projects.
+Hi there! I'm Charan, a software developer with expertise in various programming languages and technologies such as Python, Dart, Flutter, HTML and more. I have several years of experience developing software solutions for various clients, and I'm passionate about staying up-to-date with the latest industry trends and technologies. I'm excited to connect with like-minded individuals and collaborate on innovative projects.
 
 ---
   
