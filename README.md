@@ -6,7 +6,7 @@ Hi there! I'm Charan, a software developer with expertise in various programming
 
 ---
   
-- I am currently working on an internal AI tool & FOTA at LG Soft India.
+- I am currently working on an internal AI tool & Firmware at LG Soft India.
 - I am actively looking for Software Developer roles to broaden my knowledge.
 
 ---
