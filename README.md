@@ -1,4 +1,4 @@
-# R Charan
+# Charan Ravi
 
 **`A Tech enthusiast, technically.`**
 
