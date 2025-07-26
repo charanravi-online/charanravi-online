@@ -9,7 +9,7 @@ What can I say, I just have too many hobbies.
 
 ---
   
-- I am currently working on creating automation workflows for MVL Blockchain.
+- I am currently working on creating automation workflows for [MVL Blockchain](https://github.com/mvlchain).
 - I am actively looking for Software Developer roles to broaden my knowledge.
 
 ---
