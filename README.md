@@ -15,7 +15,7 @@ What can I say, I just have too many hobbies.
 ---
 
 **Connect with me**
- - **MAIL**: contact@charanravi.com
+ - **MAIL**: hello@charanravi.com
  - [PORTFOLIO](https://charanravi-online.github.io)
 
 ---
