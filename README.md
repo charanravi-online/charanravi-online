@@ -2,11 +2,14 @@
 
 **`A Tech enthusiast, technically.`**
 
-Hi there! I'm Charan, a software developer with expertise in various programming languages and technologies such as Python, Dart, Flutter, HTML and more. I have several years of experience developing software solutions for various clients, and I'm passionate about staying up-to-date with the latest industry trends and technologies. I'm excited to connect with like-minded individuals and collaborate on innovative projects.
+I'm Charan, a software dev with experience in organizations big and small. \
+I write code, automate stuff, build on the blockchain and stuff like that. \
+I also compose music when I have the time, and run, I definitely run, and practice yoga. \
+What can I say, I just have too many hobbies.
 
 ---
   
-- I am currently working on an internal AI tool & Firmware at LG Soft India.
+- I am currently working on creating automation workflows for MVL Blockchain.
 - I am actively looking for Software Developer roles to broaden my knowledge.
 
 ---
