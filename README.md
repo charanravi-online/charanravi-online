@@ -13,12 +13,6 @@ What can I say, I just have too many hobbies.
 - I am actively looking for Software Developer roles to broaden my knowledge.
 
 ---
-
-**Connect with me**
- - **MAIL**: hello@charanravi.com
- - [PORTFOLIO](https://charanravi-online.github.io)
-
----
 ### Languages and Tools
 
 <!-- [![My Skills](https://skillicons.dev/icons?i=ableton,azure,bash,blender,c,cpp,css,dart,discord,django,eclipse,firebase,flask,flutter,git,github,html,js,jenkins,linux,mysql,py,selenium,)](https://skillicons.dev) -->
